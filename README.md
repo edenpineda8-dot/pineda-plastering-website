@@ -1,2 +1,2 @@
-# pineda-plastering-website
-Website for Pineda Plastering Inc.
+# Pineda Plastering Website
+Live business website files.
